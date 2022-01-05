@@ -1,8 +1,8 @@
-👋 Hi, I’m Jimmy Cloutier, a graduate student at the Howard Center for Investigative Journalism at Arizona State University's Walter Cronkite School of Mass Communication. I’m interested in investigative reporting and data journalism. 
+👋 Hi, I’m Jimmy Cloutier, a Roy W. Howard Reporting Fellow at OpenSecrets. 
 
-🌱 I’m currently learning R, Python, and JavaScript. 
+🌱 I'm proficient in R and currently learning SQL and Python.  
 
-📫 Message me at jclouti3@asu.edu.
+📫 Message me at jcloutier@crp.org
 
 <!---
 jrcloutier/jrcloutier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
