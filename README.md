@@ -1,8 +1,6 @@
-👋 Hi, I’m Jimmy Cloutier, a Reporting Fellow at OpenSecrets and graduate of the Howard Center for Investigative Journalism at Arizona State University.🌵
+👋 Hi, I’m Jimmy Cloutier, a reporter at OpenSecrets covering money in U.S. politics.
 
-🌱 I'm proficient in R and currently learning SQL.  
-
-📫 Message me at jcloutier@crp.org
+📫 You can find me on [Twitter/X](https://twitter.com/jrcloutier) or email me at [jcloutier@crp.org](mailto:jcloutier@crp.org)
 
 <!---
 jrcloutier/jrcloutier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
